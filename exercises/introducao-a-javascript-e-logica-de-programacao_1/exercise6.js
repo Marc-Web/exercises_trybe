@@ -1,6 +1,6 @@
 let pecaDeXadrez = "Bispo";
 
-    switch (pecaDeXadrez.toLowerCase) {
+    switch (pecaDeXadrez.toLowerCase()) {
         case "Rei":
             console.log("Rei - uma casa para qualquer direção.");
             break;
