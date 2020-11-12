@@ -1,5 +1,6 @@
-console.log(document.getElementsByClassName("title")[0].innerText = "Exercício 5.1 - JavaScript");
+document.getElementsByClassName("title")[0].innerText = "Exercício 5.1 - JavaScript";
 
+console.log(document.getElementsByClassName(".main-content")[0].style.backgroundcolor:(rgb(76,164,109)));
 
 
 
